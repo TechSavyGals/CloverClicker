@@ -1,0 +1,18 @@
+Clicker Idea's
+
+Clovers (3/4/5 Leave Clovers)
+
+Buildings
+ - Fertalizer (Clickpower +1)
+ - Small Child (+1/sec)
+ - Garden (+10/sec)
+ - Medow (+100/sec)
+ - Industrialization (+1.000/sec)
+
+Upgrades
+ - 4 Leave Clover (*2 Clickpower | )
+ - 5 Leave Clover (*3 Clickpower | )
+ - Basked (*2 Child | )
+ - Strawhat (*3 Child |)
+ - Rich Soil (*2 Garden | )
+ - Electric Mower (*3 Garden | )

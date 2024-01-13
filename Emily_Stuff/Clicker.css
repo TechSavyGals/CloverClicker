@@ -1,0 +1,82 @@
+body {
+  background-color: powderblue;
+  font-size: 30px;
+  text-align: center;
+}
+#button {
+  font-size: larger;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  border-radius: 100px;
+  margin: 0 auto;
+  line-height: 200px;
+  user-select: none;
+  margin-top: 100px;
+  z-index: 5;
+}
+#button:hover {
+  font-size: larger;
+  width: 200px;
+  height: 200px;
+  background-color: darkgreen;
+  border-radius: 100px;
+  margin: 0 auto;
+  line-height: 200px;
+  user-select: none;
+  margin-top: 100px;
+  z-index: 5;
+}
+#score {
+  margin-top: 50px;
+  font-size: 60px;
+  font-weight: bold;
+  color: red;
+}
+body {
+  background-image: url('Grass.png');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  
+  margin: 0; 
+  overflow: hidden; 
+}
+
+.background-image {
+  position: fixed;
+ 
+}
+#img{
+  z-index: -2;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#button-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 300px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1; /* Set a higher z-index to ensure it's above the background images */
+}
+
+
+#image-container {
+  position: absolute;
+  left: 300px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  position: relative; /* Ensure it's the positioning context for the absolutely positioned images */
+}
+.background-image {
+  position: fixed;
+  z-index: -2;
+}
